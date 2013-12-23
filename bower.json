@@ -1,0 +1,11 @@
+{
+	"name": "tmpl-loader",
+	"version": "0.0.1",
+	"dependencies": {
+		"jquery-tmpl": ""
+	},
+	"devDependencies": {
+		"qunit": "~1.12.0",
+		"jquery": "~1.10.2"
+	}
+}
