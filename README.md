@@ -19,8 +19,8 @@ Although the templateLoader plugin has a define statement for use with require.j
 
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/sillypog/jquery-tmpl-loader/master/dist/jquery.tmpl-loader.min.js
-[max]: https://raw.github.com/sillypog/jquery-tmpl-loader/master/dist/jquery.tmpl-loader.js
+[min]: https://raw.github.com/sillypog/jquery-tmpl-loader/master/dist/jquery.tmpl.loader.min.js
+[max]: https://raw.github.com/sillypog/jquery-tmpl-loader/master/dist/jquery.tmpl.loader.js
 
 In your web page:
 
